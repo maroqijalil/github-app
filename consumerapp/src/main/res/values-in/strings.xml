@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_avatar">user_avatar</string>
+    <string name="followers">pengikut</string>
+    <string name="follower">pengikut</string>
+    <string name="repositories">repositori</string>
+    <string name="repository">repositori</string>
+    <string name="no_net_connection">Tidak Ada Koneksi Internet</string>
+    <string name="fav_button">fav_button</string>
+    <string name="del_title">Hapus!</string>
+    <string name="del_question">Apakah anda yakin?, ingin mengeluarkan</string>
+    <string name="ask_yes">Ya</string>
+    <string name="del_title2">telah dihapus</string>
+    <string name="del_fail">gagal menghapus</string>
+    <string name="ask_no">Tidak</string>
+</resources>

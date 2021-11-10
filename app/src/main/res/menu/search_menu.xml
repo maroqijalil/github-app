@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="@string/search"
+        android:id="@+id/search_bar"
+        android:icon="@android:drawable/ic_menu_search"
+        android:iconTint="#FFFFFF"
+        app:showAsAction="always|collapseActionView"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        tools:ignore="AlwaysShowAction,UnusedAttribute"/>
+
+    <item
+        android:title="@string/my_profile"
+        android:id="@+id/my_profile"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/setting_btn"
+        android:title="App's Setting"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:iconTint="#FFFFFF"
+        app:showAsAction="always"/>
+
+</menu>

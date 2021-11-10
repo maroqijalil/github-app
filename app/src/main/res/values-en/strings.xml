@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GitHub User App</string>
+    <string name="muchamad_maroqi_abdul_jalil">Muchamad Maroqi Abdul Jalil\n(jalilpro31@gmail.com)</string>
+    <string name="jalil">jalil</string>
+    <string name="author_s_statement">Author\'s Statement:</string>
+    <string name="jalil_statement">This is the second time I made an android application. I hope from the training here, it can be the optimal basis for my next learning.</string>
+    <string name="user_avatar">user_avatar</string>
+    <string name="search_hint">Username</string>
+    <string name="followers">followers</string>
+    <string name="follower">follower</string>
+    <string name="following">following</string>
+    <string name="location">location</string>
+    <string name="username">username</string>
+    <string name="name">Name</string>
+    <string name="location_icon">location icon</string>
+    <string name="foll_icon">foll icon</string>
+    <string name="repo_icon">repo icon</string>
+    <string name="repositories">repositories</string>
+    <string name="repository">repository</string>
+    <string name="company">company</string>
+    <string name="company_icon">company icon</string>
+    <string name="follower_title">Followers</string>
+    <string name="following_title">Following</string>
+    <string name="no_net_connection">No Internet Connection</string>
+    <string name="github_mark">GitHub Mark</string>
+    <string name="github_nuser_app">GitHub\nUser app</string>
+    <string name="search">Search</string>
+    <string name="my_profile">My Profile</string>
+    <string name="con_abort">Connection Abort, Try Again!</string>
+    <string name="con_timeout">Connection Timeout, Try Again!</string>
+    <string name="fav_button">fav_button</string>
+    <string name="reminder_desc">Turn on/off reminder notification</string>
+    <string name="reminder_title">Reminder</string>
+    <string name="del_title">Delete!</string>
+    <string name="del_question">Are you sure?, want to kick</string>
+    <string name="in_title">inserted</string>
+    <string name="ask_yes">Yes</string>
+    <string name="del_title2">deleted</string>
+    <string name="del_fail">Failed to delete</string>
+    <string name="ask_no">No</string>
+    <string name="notif_title">Hello git user!</string>
+    <string name="notif_desc">Let\'s take look at the most GitHub popular user on this App</string>
+    <string name="on_notif">Notification is turned on at</string>
+    <string name="off_notif">Notification is turned off</string>
+</resources>

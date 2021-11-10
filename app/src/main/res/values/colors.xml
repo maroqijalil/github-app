@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#24292E</color>
+    <color name="colorPrimaryDark">#000004</color>
+    <color name="colorPrimaryLight">#4c5157</color>
+
+    <color name="colorSecondary">#bce0eb</color>
+    <color name="colorSecondaryLight">#efffff</color>
+
+    <color name="colorPrimaryText">#000000</color>
+    
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="textColorSecondary">#000000</color>
+
+    <color name="gridBackgroundColor">#f7fdff</color>
+    <color name="gridBorderBackgroundColor">#bce0eb</color>
+    <color name="gridBackgrounfColorLight">#F7F7F7</color>
+</resources>

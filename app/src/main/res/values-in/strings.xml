@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GitHub User App</string>
+    <string name="muchamad_maroqi_abdul_jalil">Muchamad Maroqi Abdul Jalil\n(jalilpro31@gmail.com)</string>
+    <string name="jalil">jalil</string>
+    <string name="author_s_statement">Pernyataan Pemilik:</string>
+    <string name="jalil_statement">Ini merupakan kali keduanya saya membuat aplikasi android. Saya harap dari training disini, bisa menjadi dasar yang optimal pembelajaran saya selanjutnya.</string>
+    <string name="user_avatar">user_avatar</string>
+    <string name="search_hint">Nama Pengguna</string>
+    <string name="followers">pengikut</string>
+    <string name="follower">pengikut</string>
+    <string name="following">mengikuti</string>
+    <string name="location">lokasi</string>
+    <string name="username">nama pengguna</string>
+    <string name="name">Nama</string>
+    <string name="location_icon">location icon</string>
+    <string name="foll_icon">foll icon</string>
+    <string name="repo_icon">repo icon</string>
+    <string name="repositories">repositori</string>
+    <string name="repository">repositori</string>
+    <string name="company">Perusahaan</string>
+    <string name="company_icon">company icon</string>
+    <string name="follower_title">Pengikut</string>
+    <string name="following_title">Mengikuti</string>
+    <string name="no_net_connection">Tidak Ada Koneksi Internet</string>
+    <string name="github_mark">GitHub Mark</string>
+    <string name="github_nuser_app">GitHub\nUser app</string>
+    <string name="search">Pencarian</string>
+    <string name="my_profile">Profilku</string>
+    <string name="con_abort">Batalkan Koneksi, Coba Lagi!</string>
+    <string name="con_timeout">Timeout Koneksi, Coba Lagi!</string>
+    <string name="fav_button">fav_button</string>
+    <string name="reminder_desc">Hidupkan/matikan notifiaksi pengingat</string>
+    <string name="reminder_title">Pengingat</string>
+    <string name="del_title">Hapus!</string>
+    <string name="del_question">Apakah anda yakin?, ingin mengeluarkan</string>
+    <string name="in_title">telah dimasukkan</string>
+    <string name="ask_yes">Ya</string>
+    <string name="del_title2">telah dihapus</string>
+    <string name="del_fail">gagal menghapus</string>
+    <string name="ask_no">Tidak</string>
+    <string name="notif_title">Halo pengguna git!</string>
+    <string name="notif_desc">Mari melihat pengguna GitHub terpopuler di aplikasi ini</string>
+    <string name="on_notif">Notifikasi dinyalakan pada</string>
+    <string name="off_notif">Notifikasi dimatikan</string>
+</resources>

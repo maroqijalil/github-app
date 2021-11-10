@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GitHub User App</string>
+    <string name="muchamad_maroqi_abdul_jalil">Muchamad Maroqi Abdul Jalil\n(jalilpro31@gmail.com)</string>
+    <string name="jalil">jalil</string>
+    <string name="author_s_statement">Declaración del autor:</string>
+    <string name="jalil_statement">Esta es la segunda vez que hago una aplicación para Android. Espero que con la capacitación aquí, pueda ser la base óptima para mi próximo aprendizaje.</string>
+    <string name="user_avatar">user_avatar</string>
+    <string name="search_hint">Nombre de usuario</string>
+    <string name="followers">seguidores</string>
+    <string name="follower">seguidore</string>
+    <string name="following">siguiente</string>
+    <string name="location">location</string>
+    <string name="username">username</string>
+    <string name="name">Nombre</string>
+    <string name="repositories">repositorios</string>
+    <string name="repository">repositori</string>
+    <string name="company">empresa</string>
+    <string name="follower_title">Seguidores</string>
+    <string name="following_title">Siguiendo</string>
+    <string name="no_net_connection">Sin conexión a Internet</string>
+    <string name="search"> Buscar </string>
+    <string name="my_profile">Mi perfil</string>
+    <string name="location_icon">location icon</string>
+    <string name="foll_icon">foll icon</string>
+    <string name="repo_icon">repo icon</string>
+    <string name="company_icon">company icon</string>
+    <string name="github_mark">GitHub Mark</string>
+    <string name="github_nuser_app">GitHub\nUser app</string>
+    <string name="con_abort">Abortar conexión, intente de nuevo</string>
+    <string name="con_timeout">Tiempo de espera de conexión, ¡inténtelo de nuevo!</string>
+    <string name="fav_button">fav_button</string>
+    <string name="reminder_desc">Activar/desactivar notificación de recordatorio</string>
+    <string name="reminder_title">Recordatorio</string>
+    <string name="del_title">Eliminar!</string>
+    <string name="del_question">Estás seguro?, quieres patear</string>
+    <string name="in_title">insertado</string>
+    <string name="ask_yes">Sí</string>
+    <string name="del_title2">eliminado</string>
+    <string name="del_fail">Error al eliminar</string>
+    <string name="ask_no">No</string>
+    <string name="notif_title">Hola, usuario de git!</string>
+    <string name="notif_desc">Echemos un vistazo al usuario más popular de GitHub en esta aplicación</string>
+    <string name="on_notif">La notificación está activada en</string>
+    <string name="off_notif">La notificación está desactivada</string>
+</resources>

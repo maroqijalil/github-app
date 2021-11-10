@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/item_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/list_box"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingStart="36dp"
+    android:paddingEnd="36dp"
+    android:paddingTop="12dp"
+    android:paddingBottom="12dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/user_avatar"
+        android:layout_width="86dp"
+        android:layout_height="86dp"
+        android:contentDescription="@string/user_avatar"
+        android:scaleType="centerCrop"
+        android:src="@drawable/user1"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginStart="12dp">
+
+        <TextView
+            android:id="@+id/user_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorPrimaryText"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            tools:text="Name" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/user_username"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                tools:text="username"
+                android:layout_toStartOf="@id/fav_user_button"/>
+
+            <TextView
+                android:id="@+id/user_repositories"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:maxWidth="100dp"
+                android:textSize="12sp"
+                tools:text="repositories"
+                android:layout_below="@id/user_username"
+                android:layout_marginEnd="8dp"/>
+
+            <TextView
+                android:id="@+id/user_followers"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="12sp"
+                android:maxWidth="100dp"
+                tools:text="followers"
+                android:layout_below="@id/user_username"
+                android:layout_toEndOf="@id/user_repositories"/>
+
+            <ImageView
+                android:id="@+id/fav_user_button"
+                android:layout_width="36dp"
+                android:layout_height="36dp"
+                android:background="@drawable/fav_icon"
+                android:clickable="true"
+                android:contentDescription="@string/fav_button"
+                android:focusable="true"
+                android:padding="6dp"
+                android:layout_marginStart="8dp"
+                android:src="@drawable/baseline_favorite_border_black_36dp"
+                android:layout_alignParentEnd="true"/>
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

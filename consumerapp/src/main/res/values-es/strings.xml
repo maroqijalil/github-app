@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_avatar">user_avatar</string>
+    <string name="followers">seguidores</string>
+    <string name="follower">seguidore</string>
+    <string name="repositories">repositorios</string>
+    <string name="repository">repositori</string>
+    <string name="no_net_connection">Sin conexión a Internet</string>
+    <string name="fav_button">fav_button</string>
+    <string name="del_title">Eliminar!</string>
+    <string name="del_question">Estás seguro?, quieres patear</string>
+    <string name="ask_yes">Sí</string>
+    <string name="del_title2">eliminado</string>
+    <string name="del_fail">Error al eliminar</string>
+    <string name="ask_no">No</string>
+</resources>
